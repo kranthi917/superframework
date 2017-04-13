@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/main/inputs"/>
+	<classpathentry kind="src" path="src/main/test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/curvesapi-1.04.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/extentreports-2.41.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/freemarker-2.3.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/java-mail-1.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/javax.activation.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/jsoup-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/poi-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/poi-examples-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/poi-excelant-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/poi-ooxml-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/poi-ooxml-schemas-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/poi-scratchpad-3.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/selenium-java-2.53.1.jar" sourcepath="Jars/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/selenium-server-standalone-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/sqlite-jdbc-3.8.11.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/P7111060/Downloads/DataDrivenFramework/DataDrivenFramework/Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

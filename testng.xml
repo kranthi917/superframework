@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestSuite" verbose="1" preserve-order="true">
+
+	<test name="Smoketest_Chrome" preserve-order="true">
+		<!-- pass data on below parameters before executing test suite -->
+		<parameter name="browserName" value="firefox"></parameter>
+		<parameter name="environment" value="QA"></parameter>
+		<classes>
+			<class name="tests.Filling_Contact_Form"></class>
+		</classes>
+	</test>
+
+</suite>
+  

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestSuite" duration-ms="20419" started-at="2017-04-13T05:32:09Z" finished-at="2017-04-13T05:32:30Z">
+    <groups>
+    </groups>
+    <test name="Smoketest_Chrome" duration-ms="20419" started-at="2017-04-13T05:32:09Z" finished-at="2017-04-13T05:32:30Z">
+      <class name="tests.Filling_Contact_Form">
+        <test-method status="PASS" signature="startReport()[pri:0, instance:tests.Filling_Contact_Form@ea4a92b]" name="startReport" is-config="true" duration-ms="163" started-at="2017-04-13T11:02:09Z" finished-at="2017-04-13T11:02:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startReport -->
+        <test-method status="PASS" signature="setup(java.lang.String, java.lang.String)[pri:0, instance:tests.Filling_Contact_Form@ea4a92b]" name="setup" is-config="true" duration-ms="11659" started-at="2017-04-13T11:02:09Z" finished-at="2017-04-13T11:02:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[QA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="fill_contact_Form()[pri:1, instance:tests.Filling_Contact_Form@ea4a92b]" name="fill_contact_Form" duration-ms="8199" started-at="2017-04-13T11:02:21Z" finished-at="2017-04-13T11:02:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fill_contact_Form -->
+        <test-method status="PASS" signature="testResult(org.testng.ITestResult)[pri:0, instance:tests.Filling_Contact_Form@ea4a92b]" name="testResult" is-config="true" duration-ms="550" started-at="2017-04-13T11:02:29Z" finished-at="2017-04-13T11:02:30Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fill_contact_Form status=SUCCESS method=Filling_Contact_Form.fill_contact_Form()[pri:1, instance:tests.Filling_Contact_Form@ea4a92b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testResult -->
+      </class> <!-- tests.Filling_Contact_Form -->
+    </test> <!-- Smoketest_Chrome -->
+  </suite> <!-- TestSuite -->
+</testng-results>

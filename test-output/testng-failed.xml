@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [SmokeTestCasesSuite]">
+  <parameter name="environment" value="QA"/>
+  <parameter name="browserName" value="firefox"/>
+  <test name="Smoketest_Chrome(failed)">
+    <parameter name="environment" value="QA"/>
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="tests.Filling_Contact_Form">
+        <methods>
+          <include name="startReport"/>
+          <include name="testResult"/>
+          <include name="setup"/>
+          <include name="fill_contact_Form"/>
+        </methods>
+      </class> <!-- tests.Filling_Contact_Form -->
+    </classes>
+  </test> <!-- Smoketest_Chrome(failed) -->
+</suite> <!-- Failed suite [SmokeTestCasesSuite] -->
