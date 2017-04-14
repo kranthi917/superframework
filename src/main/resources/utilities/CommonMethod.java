@@ -76,7 +76,8 @@ public class CommonMethod {
 	// user defined clear Method
 	public static void clear(WebDriver driver, String objectLocater) throws IOException {
 		findElement(driver, objectLocater).clear();
-		ExtentTestManager.getTest().log(LogStatus.INFO, "Clearing text field of element : " + objectLocater.toString());
 	}
 
 }
+
+
