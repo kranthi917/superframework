@@ -15,7 +15,7 @@ import pages.ContactForm;
  */
 public class Filling_Contact_Form extends BaseClass {
 	
-	ContactForm reuse = new ContactForm();
+	ContactForm form = new ContactForm();
 	
 	/**
 	 * TC-001 - Verify Contact Form Functionality
@@ -26,12 +26,13 @@ public class Filling_Contact_Form extends BaseClass {
 		try
 		{
 			String testname = "fill_contact_Form";
-			ExtentTestManager.startTest(testname + " - " + browserType, "Filling and submitting contact form").assignCategory("Contact");
+			ExtentTestManager.startTest(testname + " - " + browserType, "Filling and submitting contact form")
+			                 .assignCategory("Contact");
 			
-			reuse.clickOnContact(driver);
-			reuse.getDataForContactForm("ContactForm");
-			reuse.fillContactForm(driver);
-			reuse.clickOnSubmit(driver);
+			form.clickOnContact(driver);
+			form.getDataForContactForm("ContactForm");
+			form.fillContactForm(driver);
+			form.clickOnSubmit(driver);
 		
 		}
 		catch(Throwable t)
